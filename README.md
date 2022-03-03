@@ -27,5 +27,5 @@ None
 
 ## Created by 
 
-Jason Francis
+Kerrick Wolf
 ```
